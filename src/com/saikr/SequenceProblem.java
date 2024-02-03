@@ -40,6 +40,7 @@ public class SequenceProblem {
         }
 
     }
+    //优化
     public static int test2(int n){
         int a=3,b=4,c=5;
         if(n<=3){
